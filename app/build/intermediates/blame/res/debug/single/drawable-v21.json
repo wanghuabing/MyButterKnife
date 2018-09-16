@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyButterKnife\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c0d805ef416215abdb24ab45ef6802e07067de52\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyButterKnife\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c0d805ef416215abdb24ab45ef6802e07067de52\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyButterKnife\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7955fd077a29fcac4ce9ff34d12f6c07ed322011\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyButterKnife\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c0d805ef416215abdb24ab45ef6802e07067de52\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

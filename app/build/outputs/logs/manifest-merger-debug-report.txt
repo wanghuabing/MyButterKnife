@@ -1,0 +1,66 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.android\build-cache\57eccaadd30d452cecc95ef09844915902113bd4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.android\build-cache\285f858201be25973ace9339919722f811c75487\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.android\build-cache\c0d805ef416215abdb24ab45ef6802e07067de52\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.android\build-cache\a824eddbbd50f40ce036b43b1d7812ea9dee1157\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.android\build-cache\3e3961982a554af5d0aba5e339574548247b4512\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.android\build-cache\64a947f44e794c5309c88f8f72c3aa10cc7c7652\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.android\build-cache\b73e0bed6494b2e3eb297ae71df68c323f95ff9c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.android\build-cache\f9a6a29f09167939707641e5405a928f010b46ae\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.android\build-cache\3210f70bfc30b98525b1983a34ee6cccd9ba2bc2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.android\build-cache\a8238278564dc241448cd195c9e20ff4eb15a01a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.android\build-cache\440ac3b2c8f5577fbd6ab26c4b99f18dc6cfa477\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.android\build-cache\7955fd077a29fcac4ce9ff34d12f6c07ed322011\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.android\build-cache\6bf5e47b45aa2cbd1164900a476764a0fb6f191e\output\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml
+application
+ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:11:5-25:19
+	android:label
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.xuhuawei.mybutterknife.MainActivity
+ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from G:\AndroidStudioProjects\MyButterKnife\app\src\main\AndroidManifest.xml:22:27-74
